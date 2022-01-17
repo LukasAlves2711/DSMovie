@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-    From the beginning the cloud
+    From start to cloud deployment
 </h4>
 
 <h4 align="center"> 
