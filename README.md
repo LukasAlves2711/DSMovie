@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">
-    <a href="#"> Movie Catalog </a>
+    <a href="#"> Movie review app </a>
 </h1>
 
 <h4 align="center">
@@ -26,7 +26,7 @@ This project was implemented to test some of the main frameworks on the market a
 ## ✅ Features
 
 [x] Main page :
-- [x] Evaluation form
+- [x] movie review form
      
 ---
 
