@@ -70,5 +70,8 @@ The following tools were used in the construction of the project:
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
+-   **[Yarn](https://github.com/yarnpkg/yarn/issues/4360)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[Postgres](https://github.com/pos)**
+-   **[Postgres](https://www.pgadmin.org/download)**
+-   **[Spring Tools $](https://spring.io/tools)**
+
