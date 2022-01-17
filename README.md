@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">
-    <a href="#"> Movie review app </a>
+    <a href="#"> Movie Review App </a>
 </h1>
 
 <h4 align="center">
