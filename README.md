@@ -1,9 +1,7 @@
 
-   ![Banner](https://user-images.githubusercontent.com/79018137/149830482-59b4e4bc-8a5b-4ee4-9844-1b38dbfb8440.png) 
+![Banner](https://user-images.githubusercontent.com/79018137/149831333-aa05cc6e-43c1-4ced-9608-770cbc044348.png)
 
-
-
-
+---
 
 <h1 align="center">
     <a href="#"> Movie Catalog </a>
@@ -17,20 +15,7 @@
 	🚧   Status: 🚀 Building...  🚧
 </h4>
 
-<h4 align="center">
-    🏁 Topics
-</h4> 
-
-<p align="center">
- <a href="#about">About</a> •
- <a href="#features">Features</a> •
- <a href="#layout">Layout</a> •
- <a href="#how-it-works">How it works</a> • 
- <a href="#tech-stack">Tech Stack</a> • 
- 
-
-</p>
-
+---
 
 ## About
 
