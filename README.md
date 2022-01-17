@@ -1,4 +1,10 @@
 
+   ![Banner](https://user-images.githubusercontent.com/79018137/149830482-59b4e4bc-8a5b-4ee4-9844-1b38dbfb8440.png) 
+
+
+
+
+
 <h1 align="center">
     <a href="#"> Movie Catalog </a>
 </h1>
@@ -32,7 +38,7 @@ This project was implemented to test some of the main frameworks on the market a
 
 ---
 
-## Features
+## ✅ Features
 
 [x] Main page :
 - [x] Evaluation form
@@ -49,7 +55,7 @@ This project was implemented to test some of the main frameworks on the market a
 ---
 
 
-## How it works
+## 🎲 How it works
 
 This project is divided into two parts:
 1. Backend (Spring Framework)
@@ -73,5 +79,5 @@ The following tools were used in the construction of the project:
 -   **[Yarn](https://github.com/yarnpkg/yarn/issues/4360)**
 -   **[Axios](https://github.com/axios/axios)**
 -   **[Postgres](https://www.pgadmin.org/download)**
--   **[Spring Tools $](https://spring.io/tools)**
+-   **[Spring Tools 4](https://spring.io/tools)**
 
