@@ -63,6 +63,6 @@ The following tools were used in the construction of the project:
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Yarn](https://github.com/yarnpkg/yarn/issues/4360)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[Postgres](https://www.pgadmin.org/download)**
+-   **[pgAdmin4](https://www.pgadmin.org/download)**
 -   **[Spring Tools 4](https://spring.io/tools)**
 
