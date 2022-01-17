@@ -61,7 +61,7 @@ This project is divided into two parts:
 1. Backend (Spring Framework)
 2. Frontend (React)
 
-#### Running the web application Web 
+#### Running the Web application 
 
 <p align="center">
    https://dsmovie-dev.netlify.app/ 
